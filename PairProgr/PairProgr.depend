@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1530068726 source:c:\users\usuario\desktop\pairprogr\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530068219 c:\users\usuario\desktop\pairprogr\arraylist.h
+
+1530071268 source:c:\users\usuario\desktop\pairprogr\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1530069043 c:\users\usuario\desktop\pairprogr\employee.h
+
+1530071572 source:c:\users\usuario\desktop\pairprogr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1530068425 source:c:\users\usuario\desktop\pairprogr\xlook.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+
+1530068746 source:c:\users\usuario\desktop\pairprogr\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
