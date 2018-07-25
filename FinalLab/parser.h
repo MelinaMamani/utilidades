@@ -1,0 +1,2 @@
+int parserLetras(ArrayList* pArrayListLetras);
+
